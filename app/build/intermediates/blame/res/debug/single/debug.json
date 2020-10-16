@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\layout_agregar_editar_modal.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\layout\\agregar_editar_modal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boton_presionado.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\boton_presionado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boton_normal.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\boton_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialogo_pregunta.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\layout\\dialogo_pregunta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_et_bg_border.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\et_bg_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\layout_listado_row.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\layout\\listado_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_et_bg_border.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable-v24\\et_bg_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_borrar.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\borrar.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boton_presionado_rojo.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\boton_presionado_rojo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_close_icon.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_listado.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\layout\\activity_listado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_text.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\round_corner_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bk_boton_plano.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\bk_boton_plano.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fortelogo.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\fortelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_boton_presionado_rojo.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable-v24\\boton_presionado_rojo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_close_icon.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable-v24\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\mipmap-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_editar.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\editar.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\build\\intermediates\\res\\merged\\debug\\drawable_regresar.png.flat",
+        "source": "C:\\Users\\Chazz\\AndroidStudioProjects\\PruebaMovilForte\\app\\src\\main\\res\\drawable\\regresar.png"
+    }
+]

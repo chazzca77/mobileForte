@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".ListadoActivity">
+
+    <LinearLayout
+        android:id="@+id/fondo"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginRight="15dp"
+        android:background="@color/transparente"
+        android:orientation="horizontal">
+        <TextView
+
+            android:layout_weight="0.7"
+            android:id="@+id/txtUsuario"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="aasdaasd"
+            android:padding="5dp"
+            android:textColor="@color/negro"
+            android:gravity="left|center"/>
+
+        <TextView
+            android:layout_weight="0.3"
+            android:id="@+id/txtCorreo"
+            android:text="aasdaasd"
+            android:padding="5dp"
+            android:textColor="@color/negro"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left|center"/>
+
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:background="@android:color/transparent"
+        android:layout_gravity="right"
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+
+        <LinearLayout
+            android:background="@android:color/transparent"
+            android:layout_gravity="right"
+            android:gravity="right"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:visibility="visible"
+                android:layout_gravity="right"
+                android:id="@+id/btnEditar"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:translationZ="90dp"
+                android:src="@drawable/editar"
+                android:layout_margin="5dp"
+                android:scaleType="fitCenter"
+                tools:ignore="ContentDescription"/>
+
+
+            <ImageView
+                android:scaleType="fitCenter"
+                android:visibility="visible"
+                android:layout_gravity="right"
+                android:id="@+id/btnBorrar"
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:translationZ="90dp"
+                android:src="@drawable/borrar"
+                tools:ignore="ContentDescription"/>
+
+
+        </LinearLayout>
+    </FrameLayout>
+
+</FrameLayout>
+
