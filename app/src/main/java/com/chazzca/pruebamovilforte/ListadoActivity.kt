@@ -106,7 +106,6 @@ class ListadoActivity : AppCompatActivity() {
 
         dialogView.btnEditar.setOnClickListener {
 
-
                 val clienteId = cliente[0].clienteId
                 val nombreCompleto = dialogView.edtNombre.text.toString()
                 val rfc = dialogView.edtRfc.text.toString()
@@ -120,6 +119,7 @@ class ListadoActivity : AppCompatActivity() {
                 if (nombreCompleto == "" || limiteCredito == "" || correoElectronico == "") {
                     dialogView.btnBorrar.snackError("Tienes que llenar todos los campos")
                 } else {
+                    cliente.clear()
                     cliente.add(
                         ModeloCliente(
                             clienteId,
@@ -135,8 +135,6 @@ class ListadoActivity : AppCompatActivity() {
                     )
 
                     editCliente(cliente, dialogBuilder,dialogView)
-
-
             }
         }
 
@@ -158,6 +156,7 @@ class ListadoActivity : AppCompatActivity() {
                 if(nombreCompleto == "" || limiteCredito== "" ||  correoElectronico== "" ){
                     dialogView.btnBorrar.snackError("Tienes que llenar todos los campos")
                 }else{
+                    cliente.clear()
                     cliente.add(
                         ModeloCliente(
                             clienteId,
@@ -235,7 +234,7 @@ class ListadoActivity : AppCompatActivity() {
             parameters.put("telefonoMovil", cliente[0].telefonoMovil)
             parameters.put("domicilio", cliente[0].domicilio)
             parameters.put("limiteCredito", cliente[0].limiteCredito)
-            parameters.put("estatusClienteId", cliente[0].estatusClienteId)
+            parameters.put("estatusClienteId", 1)
         } catch (e: Exception) {
         }
         val sr = object :
@@ -247,7 +246,7 @@ class ListadoActivity : AppCompatActivity() {
                     Log.e("bienAPI", jsonObj.getInt("code").toString())
                     if (jsonObj.getInt("code") == 200) {
                         view.btnAgregar.snackExito("Cliente insertado con éxito")
-                        adapter.notifyDataSetChanged()
+                        getListadoUsuarios(tokenKey!!)
                         dialogBuilder.dismiss()
                     } else if (jsonObj.getInt("code") == 500) {
                         view.btnAgregar?.snackAlerta("Error interno del servidor (500)")
@@ -293,7 +292,8 @@ class ListadoActivity : AppCompatActivity() {
                     Log.e("bienAPI", jsonObj.getInt("code").toString())
                     if (jsonObj.getInt("code") == 200) {
                         view.btnAgregar.snackExito("Cliente editado con éxito")
-                        adapter.notifyDataSetChanged()
+                        //adapter.notifyDataSetChanged()
+                        getListadoUsuarios(tokenKey!!)
                         dialogBuilder.dismiss()
                     } else if (jsonObj.getInt("code") == 500) {
                         view.btnAgregar?.snackAlerta("Error interno del servidor (500)")
@@ -323,7 +323,6 @@ class ListadoActivity : AppCompatActivity() {
             StringRequest(
                 Method.GET, url,
                 Response.Listener { response ->
-                    cliente.clear()
                     val strResp = response.toString()
                     val jsonObj: JSONObject = JSONObject(strResp)
                     Log.e("bienAPI", jsonObj.getInt("code").toString())
@@ -381,7 +380,6 @@ class ListadoActivity : AppCompatActivity() {
             StringRequest(
                 Method.DELETE, url,
                 Response.Listener { response ->
-                    usuarios.clear()
                     val strResp = response.toString()
                     val jsonObj: JSONObject = JSONObject(strResp)
                     Log.e("bienAPI", jsonObj.getInt("code").toString())
@@ -391,7 +389,7 @@ class ListadoActivity : AppCompatActivity() {
                         btnBorrar?.snackAlerta("Ups")
                     }
                     swipeR.isRefreshing = false
-                    adapter.notifyDataSetChanged()
+                    getListadoUsuarios(tokenKey!!)
                 },
                 Response.ErrorListener { error ->
                     btnAgregar?.snackError("error: ${error.message}")
